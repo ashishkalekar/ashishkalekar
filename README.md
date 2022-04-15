@@ -21,8 +21,8 @@
 
 
 <!-- Github Stats -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishkalekar&show_icons=true&theme=radical&count_private=true" alt="ashishkalekar" />
+<!-- <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishkalekar&show_icons=true&theme=radical&count_private=true" alt="ashishkalekar" /> -->
 </p>
 <!-- Languages -->
 <p align="center">
