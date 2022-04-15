@@ -16,7 +16,7 @@
 - 💬 Ask me about Web Development
 
 
-[![Our YouTube](https://img.shields.io/youtube/channel/views/UCtM1bw4eRDKlBndFQf__FxQ?color=ca2929&label=Our YouTube&style=social)](https://www.youtube.com/channel/UCtM1bw4eRDKlBndFQf__FxQ)
+[![Our YouTube](https://img.shields.io/youtube/channel/views/UCtM1bw4eRDKlBndFQf__FxQ?color=ca2929&label=Our%20Tube&style=social)](https://www.youtube.com/channel/UCtM1bw4eRDKlBndFQf__FxQ)
  [![Linkedin Badge](https://img.shields.io/badge/-kalekarashish-white?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kalekarashish/)](https://www.linkedin.com/in/kalekarashish/) 
 
 
